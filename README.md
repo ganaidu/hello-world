@@ -1,2 +1,2 @@
 # hello-world
-First tutorial
+This first script is to write a "Hello world!" program
